@@ -1,0 +1,23 @@
+[33mcommit 92d2d018c1e822329492e4d782b8271279927b05[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: otavio <otaviosantosandrigo08@gmail.com>
+Date:   Thu Mar 20 14:40:17 2025 -0300
+
+    Criando a view Login
+
+[33mcommit 92856b03b11450ff0d8c6fa18c5532cddc271377[m
+Author: otavio <otaviosantosandrigo08@gmail.com>
+Date:   Thu Mar 20 14:32:00 2025 -0300
+
+    adicionando o usuario na model
+
+[33mcommit dd1b7447f1ed45a7986e5b1527e81ac8219668ce[m
+Author: otavio <otaviosantosandrigo08@gmail.com>
+Date:   Thu Mar 20 14:29:09 2025 -0300
+
+    Criando a estrutura de diretorio
+
+[33mcommit f35609afe988977c3792be2d51abed9ab350f715[m[33m ([m[1;32mmaster[m[33m)[m
+Author: otavio <otaviosantosandrigo08@gmail.com>
+Date:   Thu Mar 20 14:15:54 2025 -0300
+
+    Criando projeto 1
