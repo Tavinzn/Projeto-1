@@ -4,7 +4,7 @@ namespace Projeto1.Controllers
 {
     public class LoginController1 : Controller
     {
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
