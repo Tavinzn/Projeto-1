@@ -4,12 +4,12 @@ using Projeto1.Repositorio;
 
 namespace Projeto1.Controllers
 {
-    public class LoginController1 : Controller
+    public class LoginController : Controller
     {
         //Construtor
         private readonly UsuarioRepositorio _usuarioRepositorio;
 
-        public LoginController1(UsuarioRepositorio usuarioRepositorio)
+        public LoginController(UsuarioRepositorio usuarioRepositorio)
         {
            _usuarioRepositorio = usuarioRepositorio;
         }
